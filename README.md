@@ -11,6 +11,8 @@
 | open movie database | [link](http://www.omdbapi.com/) |
 | box office mojo | [link](https://www.boxofficemojo.com/) |
 | box office prophets | [link](http://www.boxofficeprophets.com/column/columnindex.cfm?indexID=8) |
+| fandango | [link](https://developer.fandango.com/fandango) |
+| rotten tomatoes | [link](https://developer.fandango.com/rotten_tomatoes) |
 
 ## Libraries
 
