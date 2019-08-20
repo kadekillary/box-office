@@ -13,6 +13,7 @@
 | box office prophets | [link](http://www.boxofficeprophets.com/column/columnindex.cfm?indexID=8) |
 | fandango | [link](https://developer.fandango.com/fandango) |
 | rotten tomatoes | [link](https://developer.fandango.com/rotten_tomatoes) |
+| imdb | [link](https://www.imdb.com/interfaces/) |
 
 ## Libraries
 
